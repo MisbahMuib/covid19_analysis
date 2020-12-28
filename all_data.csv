@@ -1,0 +1,258 @@
+,continentEnglishName,countryEnglishName,currentConfirmedCount,confirmedCount,curedCount,deadCount
+0,Asia,China,1651,95563,89143,4769
+1,Asia,China,44,2026,1974,8
+2,Asia,China,133,759,619,7
+3,Asia,China,1213,7969,6628,128
+4,North America,United States of America,9125319,17213887,7777776,310792
+5,Asia,Bahrain,1548,89743,87846,349
+6,North America,Mexico,219139,1289298,953672,116487
+7,Asia,Turkey,216709,1955680,1721607,17364
+8,Asia,Armenia,18821,151392,129990,2581
+9,Oceania,Australia,1557,28094,25629,908
+10,North America,,134,1294,1134,26
+11,Europe,Finland,9244,32228,22500,484
+12,South America,Chile,11525,578732,551200,16007
+13,Europe,Greece,123289,128710,1473,3948
+14,Asia,Kazakhstan,63934,187890,121347,2609
+15,Europe,Norway,7909,42776,34463,404
+16,Asia,Indonesia,98688,650197,531995,19514
+17,North America,Bahamas,1616,7714,5934,164
+18,Africa,Namibia,2275,17276,14837,164
+19,South America,Bolivia,12479,148665,127155,9031
+20,Europe,Belgium,580594,618204,19239,18371
+21,Africa,,5563,5616,0,53
+22,Europe,Bulgaria,88221,188288,93728,6339
+23,Africa,Sierra Leone,535,2464,1854,75
+24,South America,Brazil,748949,7111527,6177702,184876
+25,Africa,Tunisia,24050,115966,87884,4032
+26,Asia,Philippines,27021,456562,420666,8875
+27,Europe,Lithuania,58678,106210,46560,972
+28,Europe,Bosnia and Herzegovina,31043,104087,69495,3549
+29,North America,Trinidad and Tobago,564,6917,6230,123
+30,North America,Cuba,864,9771,8770,137
+31,Europe,Moldova,15015,131919,114230,2674
+32,Europe,,9332,42995,33049,614
+33,North America,Canada,76310,488638,398412,13916
+34,North America,El Salvador,2697,42397,38481,1219
+35,North America,Honduras,58954,115474,53499,3021
+36,North America,Dominican Republic,32225,156585,121988,2372
+37,Asia,Japan,26569,190138,160786,2783
+38,Asia,Uzbekistan,2116,75538,72810,612
+39,Europe,Austria,32362,334913,297424,5127
+40,Africa,Angola,6836,16484,9266,382
+41,Asia,Kingdom of Bhutan,23,442,419,0
+42,North America,Panama,31576,203295,168238,3481
+43,Europe,Russia,512825,2791220,2228633,49762
+44,Africa,Benin,136,3152,2972,44
+45,Asia,United Arab Emirates,22696,189866,166541,629
+46,Asia,Syria,4501,9603,4548,554
+47,North America,Barbados,21,301,273,7
+48,Europe,Poland,242517,1182864,915576,24771
+49,Asia,Korea,12888,47515,33982,645
+50,Europe,Estonia,7568,20658,12922,168
+51,Europe,Hungary,198438,295977,89814,7725
+52,Asia,Georgia,30133,201368,169282,1953
+53,Africa,Malawi,290,6138,5661,187
+54,Asia,Pakistan,42478,451494,399852,9164
+55,Europe,Ukraine,366903,944381,561222,16256
+56,Asia,Lebanon,44797,153049,106712,1540
+57,North America,Jamaica,3164,11966,8523,279
+58,Europe,Luxembourg,8242,43279,34609,428
+59,South America,Venezuela,4255,108717,103492,970
+60,Asia,Thailand,232,4297,4005,60
+61,South America,Suriname,71,5428,5240,117
+62,South America,Colombia,85189,1468795,1343819,39787
+63,Africa,,167,3206,2977,62
+64,Africa,The Islamic Republic of Mauritania,2947,11431,8248,236
+65,North America,,188,1878,1667,23
+66,Africa,Sao Tome and Principe,39,1011,955,17
+67,Asia,Iraq,52478,580449,515321,12650
+68,Asia,Vietnam,109,1407,1263,35
+69,South America,Paraguay,25645,97028,69351,2032
+70,Africa,Democratic Republic of the Congo,1712,15088,13010,366
+71,Africa,Lesotho,919,2400,1435,46
+72,North America,Nicaragua,1499,5887,4225,163
+73,Africa,Togo,397,3315,2852,66
+74,Europe,Belarus,21035,167731,145397,1299
+75,North America,Guatemala,7136,131435,119748,4551
+76,Europe,Andorra,492,7446,6875,79
+77,Europe,Gibraltar,97,1153,1050,6
+78,Europe,Bailiwick of Jersey,870,2098,1195,33
+79,Asia,Nepal,9580,251692,240363,1749
+80,Africa,Morocco,32944,409746,369998,6804
+81,Europe,Netherlands,630318,652525,11886,10321
+82,Europe,Iceland,137,5588,5423,28
+83,Europe,Liechtenstein,239,1655,1395,21
+84,North America,Belize,6149,9511,3151,211
+85,Europe,Malta,1623,11475,9670,182
+86,Europe,Denmark,37159,123813,85662,992
+87,Africa,,293,11458,11055,110
+88,Africa,Egypt,10767,123701,105919,7015
+89,South America,Uruguay,3925,11436,7406,105
+90,Asia,Cyprus,14048,16190,2057,85
+91,Africa,Zimbabwe,1716,11866,9836,314
+92,Africa,Somali,929,4579,3529,121
+93,North America,,221,485,255,9
+94,Africa,Mozambique,1854,17256,15257,145
+95,South America,Argentina,130280,1524355,1352541,41534
+96,Europe,Slovakia,38018,142133,102737,1378
+97,Europe,Switzerland,76028,399511,317600,5883
+98,Asia,Oman,6527,127019,119009,1483
+99,Asia,,5438,78415,71656,1321
+100,Asia,Saudi Arabia,3060,360516,351365,6091
+101,Africa,Madagascar,387,17638,16992,259
+102,Asia,Bangladesh,-3741807,496975,4231590,7192
+103,Asia,India,322366,9956557,9489740,144451
+104,Europe,Republic of Serbia,296520,335229,34955,3754
+105,Asia,Israel,21771,367633,342812,3050
+106,Europe,Faroe,22,534,512,0
+107,Europe,Romania,86338,577446,477139,13969
+108,Asia,Burma,19168,113082,91537,2377
+109,Europe,Germany,366008,1438438,1047265,25165
+110,Africa,South Africa,88489,892813,780313,24011
+111,Asia,,1132,2089,350,607
+112,Asia,Azerbaijan,62308,191460,127064,2088
+113,Africa,Sudan,7984,22265,12873,1408
+114,Europe,San Marino,277,2025,1694,54
+115,Africa,The Republic of Equatorial Guinea,65,5214,5064,85
+116,Africa,Guinea,632,13485,12773,80
+117,Africa,Swaziland,3955,7026,2936,135
+118,Asia,Jordan,32920,269806,233390,3496
+119,Africa,Uganda,18961,29361,10172,228
+120,Africa,Nigeria,7896,76207,67110,1201
+121,North America,Cayman Is,25,308,281,2
+122,North America,Costa Rica,29501,156388,124907,1980
+123,Africa,Chad,189,1784,1493,102
+124,South America,Peru,28724,991518,925893,36901
+125,Africa,Gabon,87,9373,9223,63
+126,Africa,Kenya,16788,93405,74999,1618
+127,Oceania,Fiji,2,46,42,2
+128,Europe,Portugal,69686,362616,287028,5902
+129,Africa,Ethiopia,16899,118481,99751,1831
+130,Europe,Albania,23471,51424,26898,1055
+131,North America,,24,771,741,6
+132,Asia,Afghanistan,9435,49927,38475,2017
+133,South America,Ecuador,12366,204249,177951,13932
+134,Europe,Ireland,50200,77678,25335,2143
+135,Europe,Croatia,22445,186963,161563,2955
+136,North America,,158,5124,4919,47
+137,Asia,Iran,228922,1138530,856513,53095
+138,Asia,Kuwait,3166,147192,143113,913
+139,Asia,SriLanka,8874,35387,26353,160
+140,Europe,North Macedonia,21613,76251,52413,2225
+141,Europe,Sweden,344602,357466,4971,7893
+142,Asia,China,7,1296,1267,22
+143,Asia,China,8,684,676,0
+144,Asia,China,39,839,797,3
+145,Asia,China,3,223,220,0
+146,Asia,China,27,503,475,1
+147,Asia,China,14,502,485,3
+148,Africa,Burkina Faso,1950,4449,2426,73
+149,Africa,Ghana,1011,53386,52048,327
+150,Europe,Monaco,188,688,497,3
+151,Oceania,Papua New Guinea,133,729,588,8
+152,North America,Puerto Rico,70753,72065,0,1312
+153,North America,,9,80,70,1
+154,Asia,Malaysia,14671,89133,74030,432
+155,North America,Antigua and Barbuda,5,151,141,5
+156,Oceania,New Zealand,65,1744,1654,25
+157,Europe,Spain,1586268,1785421,150376,48777
+158,Africa,Libya,28533,92577,62720,1324
+159,Asia,Mongolia,534,918,384,0
+160,Asia,Qatar,2072,141557,139243,242
+161,Asia,Singapore,86,58353,58238,29
+162,Europe,Slovenia,96184,100401,2027,2190
+163,Africa,Gambia,10,3786,3653,123
+164,Africa,Senegal,635,17336,16349,352
+165,Europe,Latvia,25247,27495,1866,382
+166,Africa,Botswana,2895,12873,9940,38
+167,North America,Haiti,1083,9627,8310,234
+168,Asia,Maldives,570,13402,12784,48
+169,Africa,Cameroon,1683,25472,23344,445
+170,South America,Guyana,673,6016,5185,158
+171,Asia,Kampuchea (Cambodia ),38,362,324,0
+172,Africa,Djibouti,107,5759,5587,65
+173,Europe,Czech Republic,69719,602404,522649,10036
+174,Africa,,452,18456,17635,369
+175,Africa,,66,2447,2337,44
+176,Europe,Italy,635343,1906377,1203814,67220
+177,Asia,Laos,5,41,36,0
+178,Africa,Mali,2130,5969,3630,209
+179,Europe,United Kingdom,1882069,1948660,539,66052
+180,Africa,Republic of Rwanda,1231,6832,5544,57
+181,South America,French Guiana,11955,12026,0,71
+182,Africa,,746,751,4,1
+183,Europe,France,2186191,2427316,181506,59619
+184,Oceania,French Polynesia,10709,15974,5167,98
+185,Africa,Ivory Coast,290,21741,21318,133
+186,Asia,China,89,1428,1332,7
+187,Asia,China,14,227,211,2
+188,Africa,,36,633,590,7
+189,North America,,18354,18762,0,408
+190,Oceania,,7,37,30,0
+191,South America,,6,23,17,0
+192,Others,Diamond Princess Cruise Ship,154,741,574,13
+193,Oceania,Guam,1114,7079,5846,119
+194,Africa,Reunion,8546,8588,0,42
+195,Africa,Algeria,29569,93507,61307,2631
+196,North America,,55,85,30,0
+197,Europe,Isle of Man,24,373,324,25
+198,Africa,,1098,6200,4988,114
+199,North America,Martinique,5559,5601,0,42
+200,North America,,172,172,0,0
+201,Africa,Liberia,377,1771,1311,83
+202,Asia,Brunei,4,152,145,3
+203,Africa,Central African Republic,2949,4936,1924,63
+204,Asia,Tajikstan,1070,12798,11640,88
+205,Africa,Mauritius,41,514,463,10
+206,North America,Saint Vincent and the Grenadines,98,98,0,0
+207,North America,St.Lucia,31,278,243,4
+208,Europe,Guernsey,3,291,275,13
+209,Africa,,273,711,438,0
+210,North America,,8346,8498,0,152
+211,North America,,7,28,21,0
+212,North America,Sint Maarten,887,899,0,12
+213,South America,,174,177,0,3
+214,Africa,Niger,946,2322,1294,82
+215,Asia,China,4,303,296,3
+216,Asia,China,0,590,584,6
+217,Asia,China,19,342,322,1
+218,North America,,6,91,85,0
+219,Africa,Seychelles,433,616,162,21
+220,Africa,Tanzania,321,509,167,21
+221,Oceania,,111,113,0,2
+222,Asia,China,11,859,841,7
+223,Asia,China,0,68149,63637,4512
+224,Asia,China,8,957,940,9
+225,Asia,Palestine,32297,65802,32944,561
+226,North America,,1,19,18,0
+227,Asia,China,11,960,936,13
+228,North America,,7,10,3,0
+229,Asia,,1,31,30,0
+230,Asia,China,6,1297,1290,1
+231,Asia,China,1,264,261,2
+232,Asia,China,0,373,367,6
+233,Asia,China,0,182,180,2
+234,Asia,China,0,289,287,2
+235,North America,,0,13,12,1
+236,North America,,4,16,12,0
+237,Europe,Status Civitatis Vaticanae,26,26,0,0
+238,Asia,China,0,992,986,6
+239,Asia,China,0,1020,1016,4
+240,Asia,China,0,980,977,3
+241,Asia,China,3,935,931,1
+242,Asia,China,0,157,155,2
+243,Asia,China,0,46,46,0
+244,Asia,China,0,171,165,6
+245,Asia,Turkmenistan,0,0,0,0
+246,Asia,China,0,147,145,2
+247,Europe,,30,31,0,1
+248,North America,Saint Barthelemy,3,3,0,0
+249,Africa,Reunion Island,6,6,0,0
+250,Asia,China,0,75,75,0
+251,Others,Grand Princess,21,21,0,0
+252,Europe,United Kingdom of Great Britain and Ireland,12,20,8,0
+253,Europe,United Kingdom,12,20,8,0
+254,Europe,Northern Ireland,1,1,0,0
+255,Asia,China,0,18,18,0
+256,Asia,China,0,1,1,0
